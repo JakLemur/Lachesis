@@ -1,2 +1,2 @@
 # Lachesis
- Graphin Software for Lifespan Experiments
+ Graphinh Software for Lifespan Experiments
